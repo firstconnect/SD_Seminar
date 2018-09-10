@@ -1,9 +1,9 @@
 {
   "id": "0be5d75e-bf90-4806-aae5-33d01f3d1c00",
-  "name": "SD Seminar",
-  "publisher": "Default publisher",
-  "brief": "",
-  "description": "",
+  "name": "SD Seminar", 
+  "publisher": "Michael Fröhlich",
+  "brief": "Kort beskrivelse af APP",
+  "description": "Lang beskrivelse af APP",
   "version": "1.0.0.0",
   "compatibilityId": "1.0.0.0",
   "privacyStatement": "",
@@ -16,8 +16,11 @@
   "screenshots": [],
   "platform": "11.0.0.0",
   "application": "11.0.0.0",
+  "showMyCode":  true,
+  "features": "TranslationFile",
+  "target": "Internal",
   "idRange": {
-    "from": 50100,
-    "to": 50149
+    "from": 123456700,
+    "to": 123456799
   }
 }
