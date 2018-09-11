@@ -102,7 +102,6 @@ table 123456701 "CSD Seminar"
     }
 
     var
-    
         SeminarSetup: Record "CSD Seminar Setup";
         CommentLine: Record "CSD Seminar Comment Line";
         Seminar: Record "CSD Seminar";
